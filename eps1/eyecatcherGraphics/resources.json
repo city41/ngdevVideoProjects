@@ -1,0 +1,11 @@
+{
+	"romPathRoot": "./rom/202-",
+	"padCROMFilesTo": 1048576,
+	"eyecatcher": {
+		"mainLogoImageFile": "./mainLogo.png",
+		"max330MegaImageFile": "./max330.png",
+		"proGearSpecImageFile": "./progear.png",
+		"snkLogoImageFile": "./companyLogo.png",
+		"copyrightCharacterImageFile": "./copyright.png"
+	}
+}
