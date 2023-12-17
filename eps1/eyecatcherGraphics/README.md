@@ -14,8 +14,6 @@ I have only done this on Linux. It will likely work as-is on MacOS, and need twe
 ### Create a rom folder
 
 It should contain
-
-- neogeo.zip: a neo geo bios usable with MAME
 - puzzledp.zip's files all extracted out
 
 ### Make sure you have MAME and zip installed
