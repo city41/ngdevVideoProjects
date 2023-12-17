@@ -18,6 +18,16 @@
 # misc
 .DS_Store
 *.pem
+history.db
+
+# neo geo rom files
+*.c1
+*.c2
+*.m1
+*.p1
+*.s1
+*.v1
+*.zip
 
 # debug
 npm-debug.log*
