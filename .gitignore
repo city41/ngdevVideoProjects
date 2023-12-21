@@ -28,6 +28,7 @@ history.db
 *.s1
 *.v1
 *.zip
+063-c*.*
 
 # debug
 npm-debug.log*
