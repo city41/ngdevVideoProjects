@@ -1,0 +1,14 @@
+{
+  "name": "eyecatcherGraphics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "zip": "(cd rom && zip puzzledp.zip *.?? *.bin)",
+    "mame": "yarn zip && cp rom/puzzledp.zip ~/mame/roms && mame -w -nofilter -nomouse puzzledp"
+
+  },
+  "dependencies": {
+    "@city41/sromcrom": "^0.10.0"
+  }
+}
