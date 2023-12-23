@@ -28,6 +28,7 @@ history.db
 *.s1
 *.v1
 *.zip
+*.bin
 063-c*.*
 
 # debug

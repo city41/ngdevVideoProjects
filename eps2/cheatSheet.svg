@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1600"
+   height="900"
+   viewBox="0 0 423.33333 238.12501"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/sRomCover.png"
+   inkscape:export-xdpi="115.2"
+   inkscape:export-ydpi="115.2"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="cheatSheet.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="1600px"
+     units="px"
+     inkscape:zoom="0.91465572"
+     inkscape:cx="844.58008"
+     inkscape:cy="401.24387"
+     inkscape:window-width="5100"
+     inkscape:window-height="1391"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:16.1612"
+       id="rect35611"
+       width="423.33334"
+       height="238.125"
+       x="0"
+       y="0"
+       sodipodi:insensitive="true" />
+    <g
+       id="g76107"
+       transform="matrix(1.0783921,0,0,1,-18.84433,24.341676)">
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.22993"
+         id="rect75829"
+         width="392.20181"
+         height="36.365479"
+         x="17.642385"
+         y="31.982506" />
+      <rect
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.22993"
+         id="rect75829-9"
+         width="392.20181"
+         height="36.365479"
+         x="17.642391"
+         y="68.347984" />
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.22993"
+         id="rect75829-5"
+         width="392.20181"
+         height="36.365479"
+         x="17.642391"
+         y="104.71346" />
+      <rect
+         style="fill:#333333;stroke:none;stroke-width:0.22993"
+         id="rect75829-5-8"
+         width="392.20181"
+         height="36.365479"
+         x="17.64241"
+         y="177.44443" />
+      <rect
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.22993"
+         id="rect75829-9-3"
+         width="392.20181"
+         height="36.365479"
+         x="17.642399"
+         y="141.07895" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="23.888927"
+       y="81.978859"
+       id="text1392"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="23.888927"
+         y="81.978859">P ROMs </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="23.718775"
+       y="29.498512"
+       id="text1392-6"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-43"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="23.718775"
+         y="29.498512">Neo Geo ROM Cheat Sheet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="134.25233"
+       y="80.17112"
+       id="text1392-0"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="134.25233"
+         y="80.17112">&quot;program&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="134.25233"
+       y="118.2077"
+       id="text1392-0-4"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-44"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="134.25233"
+         y="118.2077">&quot;music&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="134.25233"
+       y="154.13976"
+       id="text1392-0-4-3"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-44-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="134.25233"
+         y="154.13976">&quot;voices&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="134.25233"
+       y="190.07214"
+       id="text1392-0-4-3-2"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-44-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="134.25233"
+         y="190.07214">&quot;characters&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="25.825632"
+       y="197.19449"
+       id="text1392-0-4-3-2-3"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-44-1-1-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="25.825632"
+         y="197.19449">(come in pairs)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="134.25233"
+       y="226.00452"
+       id="text1392-0-4-3-2-4"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-44-1-1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="134.25233"
+         y="226.00452">&quot;static&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="271.32437"
+       y="188.46619"
+       id="text1392-0-4-3-2-7"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-44-1-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="271.32437"
+         y="188.46619">sprite tiles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="271.67026"
+       y="224.36562"
+       id="text1392-0-4-3-2-7-8"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-44-1-1-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="271.67026"
+         y="224.36562">fix layer tiles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="270.5502"
+       y="80.545845"
+       id="text1392-0-0"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="270.5502"
+         y="80.545845">68k game code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="271.34085"
+       y="118.19532"
+       id="text1392-0-0-7"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="271.34085"
+         y="118.19532">z80 audio driver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="271.32437"
+       y="154.13976"
+       id="text1392-0-0-7-7"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-3-4-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="271.32437"
+         y="154.13976">sound data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="24.531313"
+       y="117.91117"
+       id="text1392-8"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="24.531313"
+         y="117.91117">M ROM </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="25.338409"
+       y="153.84326"
+       id="text1392-8-8"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-4-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="25.338409"
+         y="153.84326">V ROMs </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="24.663084"
+       y="189.77567"
+       id="text1392-8-8-9"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-4-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="24.663084"
+         y="189.77567">C ROMs </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.8667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.421667"
+       x="24.93486"
+       y="225.76569"
+       id="text1392-8-8-9-5"
+       inkscape:export-filename="/home/matt/dev/ngdevVideos/projects/eps2/mRomCover.png"
+       inkscape:export-xdpi="115.2"
+       inkscape:export-ydpi="115.2"><tspan
+         sodipodi:role="line"
+         id="tspan1390-4-1-6-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Tiresias PCfont';-inkscape-font-specification:'Tiresias PCfont';fill:#ffffff;stroke-width:0.421667"
+         x="24.93486"
+         y="225.76569">S ROM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="24.723831"
+       y="51.139576"
+       id="text76199"><tspan
+         sodipodi:role="line"
+         id="tspan76197"
+         style="font-size:8.46667px;fill:#666666;stroke-width:0.264583"
+         x="24.723831"
+         y="51.139576">chip(s)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="136.04961"
+       y="51.960197"
+       id="text76199-3"><tspan
+         sodipodi:role="line"
+         id="tspan76197-1"
+         style="font-size:8.46667px;fill:#666666;stroke-width:0.264583"
+         x="136.04961"
+         y="51.960197">mnemonic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="271.95886"
+       y="50.294151"
+       id="text76199-3-8"><tspan
+         sodipodi:role="line"
+         id="tspan76197-1-9"
+         style="font-size:8.46667px;fill:#666666;stroke-width:0.264583"
+         x="271.95886"
+         y="50.294151">usage</tspan></text>
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.113825;stroke-opacity:1"
+       id="path5565"
+       cx="386.70135"
+       cy="26.222946"
+       r="24.634838" />
+    <path
+       style="fill:#ffcc00;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 368.45877,26.806693 3.39191,-8.594749 8.47977,6.697582 -0.54616,-15.9247255 -0.8336,1.2360345 -0.2587,-1.1210545 -0.74737,1.0923115 -0.34495,-2.3858325 -1.14979,9.1696505 -6.09394,-4.570457 -1.49474,1.552235 z"
+       id="path5537"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffcc00;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 394.84666,9.4159745 -3.50688,5.3465675 2.50081,5.748999 4.62795,5.950214 3.79433,1.322271 4.39799,-5.777749 -1.00608,-4.742923 -4.45547,-6.266401 z"
+       id="path5545"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#ffcc00;fill-rule:evenodd;stroke:#ffcc00;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 382.11264,26.519241 8.6235,-6.496366 -1.63847,0.229965 0.97733,-0.833611 -1.32227,0.287451 1.75344,-1.293521 -5.89272,1.063563 -0.20121,-1.983403 7.96236,-5.835234 -8.22107,0.603645 7.38746,-4.8579015 -2.5583,0.287452 2.15588,-1.724701 -1.20729,-0.05747 1.75344,-1.264784 -10.08949,3.334416 z"
+       id="path5539"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#37abc8;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 380.12924,35.54517 7.10001,9.457096 -0.77612,-1.782187 1.12106,0.891096 -0.54616,-1.753444 1.26478,0.316195 -4.25426,-8.192325 7.67491,0.229965 -4.08179,-6.898797 6.3239,2.127125 -1.12105,-1.236035 1.86842,0.488667 -1.49473,-1.925917 0.8336,0.08624 -5.28908,-4.311743 z"
+       id="path5541"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 398.15234,22.58118 1.12105,0.373687 h 1.92592 l 0.91984,-0.632395 0.71862,-1.00607 0.68989,-2.35709 0.31619,1.95466 -0.28745,1.264777 -0.91984,1.063563 -1.06356,0.632395 -1.98341,-0.114986 z"
+       id="path5543"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#37abc8;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 391.05233,42.357731 2.38583,2.299597 4.54171,-1.149798 6.95629,-6.55386 0.2587,-8.048596 -8.19232,0.172472 -5.92147,7.703659 z"
+       id="path5547"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#37abc8;fill-rule:evenodd;stroke:#37abc8;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 378.57701,25.886853 c -0.84976,-0.567444 -2.32527,-1.433124 -3.82309,-1.178542 -6.98332,1.18693 -6.51519,9.772283 -3.33442,14.48747 1.7635,2.614215 6.95931,6.00841 9.88828,6.697582 l -2.38584,-13.826338 -4.62794,1.494736 1.26479,0.02874 -1.60973,1.32227 h 1.63847 l -1.46599,1.178542 h 2.75951 l 0.94859,3.794339 -0.0287,-0.05747 c -1.46564,-0.416095 -3.0756,-1.767722 -4.055,-2.756582 -2.84655,-2.874073 -3.13202,-8.419777 1.72666,-8.655173 2.23777,0.608502 3.96334,2.265662 5.80649,3.161944 z"
+       id="path5551"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cssccccccccccsccc" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 395.91023,38.592135 1.09231,0.40243 1.32227,-0.574896 1.1498,2.184618 -2.58705,1.092306 -1.1498,-0.05747 -0.51741,-0.862353 -1.43725,0.172472 -0.63239,-2.012146 0.57491,-1.149805 1.49473,-0.574896 z"
+       id="path5555"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 398.10413,33.885769 1.23987,-0.243913 0.52847,-1.341502 -0.50814,-1.077265 -1.60574,0.284564 -0.6301,1.341502 z"
+       id="path5557"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 395.03494,17.198306 0.77238,0.487821 0.85368,-0.548801 -0.24391,-0.711399 -0.77238,-0.203255 -0.56912,0.406511 z"
+       id="path5559"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 398.28706,14.921821 0.65043,-0.975641 h 0.7927 l 0.65043,1.056944 -0.44717,0.874009 -1.03661,-0.02034 z"
+       id="path5561"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.113825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 401.09202,34.556517 0.6301,-0.304887 0.87401,0.203256 -0.0204,0.772378 -0.52846,0.670754 -0.89434,-0.508143 z"
+       id="path5563"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
